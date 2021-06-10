@@ -43,7 +43,7 @@ namespace HelloWorld
         /// <returns></returns>
         public static int Something()
         {
-            return 5;
+            return 555555;
         }
     }
 }
