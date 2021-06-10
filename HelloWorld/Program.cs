@@ -36,5 +36,14 @@ namespace HelloWorld
         {
             return a + b + 5;
         }
+
+        /// <summary>
+        /// Something 
+        /// </summary>
+        /// <returns></returns>
+        public static int Something()
+        {
+            return 5;
+        }
     }
 }
